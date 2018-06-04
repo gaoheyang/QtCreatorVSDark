@@ -3,7 +3,7 @@
 Visual Studios Dark theme for QtCreator.
 
 
-Instructions
+## Instructions
 
 Close QtCreator.
 
