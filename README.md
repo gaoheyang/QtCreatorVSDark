@@ -1,4 +1,4 @@
-# QtCreatorVSDark
+## QtCreatorVSDark
 
 Visual Studios Dark theme for QtCreator.
 
