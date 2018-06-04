@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<style-scheme version="1.0" name="Visual Studio Dark">
+<style-scheme version="1.0" name="VisualStudioDark">
   <style name="Text" foreground="#dcdcdc" background="#1e1e1e"/>
   <style name="Link" foreground="#0055ff"/>
   <style name="Selection" background="#3f6e9c" bold="true"/>
